@@ -4,7 +4,7 @@ My name is **Kévin Sanmartin**, from France. I'm a **junior** fullstack web dev
 I started with C and C++ and now I am currently learning web dev
 
 
-- 🔭 I’m currently learning React.js
+- 🔭 I’m currently learning Next.js
 - 👨🏽‍💻 I code with VSCode
 - :computer: Most used line of code `console.log('test')`
 - 📫 How to reach me: kevinsanmartin@live.fr

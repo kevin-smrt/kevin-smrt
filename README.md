@@ -1,7 +1,7 @@
 ## 👋 ABOUT ME
-My name is **Kévin Sanmartin**, from France. I'm a **junior** fullstack web developer. I really enjoy learning new skills !
+My name is **Kévin Sanmartin**, from France. I'm a **junior** Front-End developer. I really enjoy learning new skills !
 
-I started with C and C++ and now I am currently learning web dev
+I started with C and C++ and now I am currently a React/NextJS Front-Dev developper @Cosmospace 
 
 
 - 🔭 I’m currently learning Next.js
